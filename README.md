@@ -1,3 +1,15 @@
+NAME:- VIKAL PANDEY 
+COMPANY:- CODTECH IT SOLOUTIONS 
+INTERN ID :- CTIS8713 
+MENTOR:- Neela Santhosh 
+Duration:- 6 Weeks 
+Domain:- Software Development
+
+#OUTPUT#
+https://github.com/VIKAL-PANDEY/CollabNotes/issues/1#issue-4619091171
+
+
+
 # CollabNotes 📝
 
 CollabNotes is a high-performance, production-ready **Real-Time Collaborative Note-Taking Platform** similar to Google Docs. It leverages **FastAPI**, **WebSockets**, and **SQLAlchemy** on the backend, and **React.js** with **Tailwind CSS** on the frontend to deliver instantaneous document synchronisation.
